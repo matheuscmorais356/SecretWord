@@ -7,7 +7,7 @@ O projeto foi desenvolvido durante o curso [React do zero a maestria](https://ww
 
 ### 🔗 Links
 
-- URL do site no ar: [Clique aqui!](https://mini-blog-kohl.vercel.app/)
+- URL do site no ar: [Clique aqui!](https://secret-word-chi.vercel.app/)
 
 ### 🛠 Tecnologias
 
